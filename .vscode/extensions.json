@@ -2,6 +2,18 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "streetsidesoftware.code-spell-checker"
+    "streetsidesoftware.code-spell-checker",
+    "angular.ng-template",
+    "editorconfig.editorconfig",
+    "msjsdiag.debugger-for-chrome",
+    "stringham.move-ts",
+    "christian-kohler.path-intellisense",
+    "rbbit.typescript-hero",
+    "pmneo.tsimporter",
+    "yzhang.markdown-all-in-one",
+    "zignd.html-css-class-completion",
+    "foxundermoon.shell-format",
+    "gruntfuggly.todo-tree",
+    "davidbabel.vscode-simpler-icons"
   ]
 }
